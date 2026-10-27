@@ -1,0 +1,1 @@
+// logica.js — Capa de lógica: validar, calcular, cambiar estados (Tareas 2, 3 y 7)
